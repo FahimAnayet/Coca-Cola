@@ -1,5 +1,5 @@
 {
-    "name": "infinite/cocacola",
+    "name": "infinitexyz123/cocacola",
     "description": "This package will feed you a bottle of Coca-Cola",
     "type": "library",
     "license": "MIT",
@@ -14,7 +14,7 @@
     "extra": {
     "laravel": {
             "providers": [
-                "Infinite\\Cocacola\\CocacolaServiceProvider"
+                "Infinitexyz123\\Cocacola\\CocacolaServiceProvider"
             ]
         }
     }
