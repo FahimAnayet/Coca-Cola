@@ -1,7 +1,7 @@
 ## About Coca-Cola
 
 #User Manual
-``` composer require infinite/cocacola ```
+``` composer require infinitexyz123/cocacola ```
 
 > **Note:** This repository contains the core code of the Coca-Cola package. If you want to won some Coca-Cola using Coca-Cola then use it. 
 
