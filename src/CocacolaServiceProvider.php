@@ -1,5 +1,5 @@
 <?php
-namespace Infinite\Cocacola;
+namespace Infinitexyz123\Cocacola;
 
 use Illuminate\Support\ServiceProvider;
 
