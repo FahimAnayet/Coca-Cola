@@ -1,0 +1,21 @@
+{
+    "name": "infinite/cocacola",
+    "description": "This package will feed you a bottle of Coca-Cola",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rohan Patwary",
+            "email": "parvezpatwary1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+    "laravel": {
+            "providers": [
+                "Infinite\\Cocacola\\CocacolaServiceProvider"
+            ]
+        }
+    }
+}
