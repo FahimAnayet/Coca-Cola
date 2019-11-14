@@ -1,8 +1,8 @@
 <?php
 
-namespace Infinite\Cocacola\Http\Controllers;
+namespace Infinitexyz123\Cocacola\Http\Controllers;
 
-use Infinite\Cocacola\Models\Coke;
+use Infinitexyz123\Cocacola\Models\Coke;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
