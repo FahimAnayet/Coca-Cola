@@ -1,6 +1,6 @@
 <?php
 
-namespace Infinite\Cocacola\Models;
+namespace Infinitexyz123\Cocacola\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
