@@ -1,5 +1,7 @@
 ## About Coca-Cola
 
+#This is a Laravel Test Package.
+
 #User Manual
 ``` composer require infinitexyz123/cocacola ```
 
